@@ -2,7 +2,7 @@
 
 0. For this repository, and then follow the remaining steps with your forked repo.
 
-1. Clone the repository
+1. Clone the repository 
 
 ```
 git clone https://github.com/<yourusername>/JS_Assignment_Elite_1.0.git
